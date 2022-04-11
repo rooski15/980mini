@@ -14,10 +14,7 @@ Blockboy AC980mini QMK keyboard folder
 ## RGB Matrix Determined
 ![RGB Matrix](https://i.imgur.com/zyE26ny.jpg)
 ## RGB Matrix Behaving Inconsistently
-
-
-# Description of RGB Behavior
-
+### Description of RGB Behavior
 RGB Matrix appears to be behaving as though several keys are assigned to the wrong location. 
 The [980mini.h LED matrix](https://github.com/rooski15/980mini/blob/main/980mini/980mini.h) appears to have the proper assignment, but several LEDs seem to behave as though they are in the wrong row. Behavior as observed from a vertical RGB gradient:
 ![RGB Behavior](https://i.imgur.com/Gi8yF45.jpg)
