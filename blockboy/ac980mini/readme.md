@@ -3,7 +3,7 @@
 ![AC980mini](https://ae01.alicdn.com/kf/H2955001a66544ee1ac38a42b0632fe41m.png)
 ![AC980mini kle](https://imgur.com/prgMVo2.jpg)
 
-*A short description of the keyboard/project*
+*An F-Row-Less 1800 project with fixed layout and lots of RGB.*
 
 * Keyboard Maintainer: [rooski15](https://github.com/rooski15)
 * Hardware Supported: AC980mini
